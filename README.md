@@ -1,3 +1,3 @@
 ## Vulnerable Flask Application
 
-> This is a ZAP Test. Hope it works ;)
+> This is a Vulnerable Flask Application used for SCA, SAST, and DAST tests in Jenkins for DevSecOps project.
